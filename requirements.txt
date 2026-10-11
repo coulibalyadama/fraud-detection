@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+pydantic
+kafka-python
+prometheus-client
+prometheus-fastapi-instrumentator
